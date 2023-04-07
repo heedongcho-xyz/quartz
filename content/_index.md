@@ -4,6 +4,7 @@ enableToc: false
 ---
 
 [Welcome!](notes/Welcome!.md)
+[Home](notes/Welcome!.md)
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
