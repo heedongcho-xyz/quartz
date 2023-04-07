@@ -3,7 +3,7 @@ title: 🪴 Quartz 3.3
 enableToc: false
 ---
 
-[Welcome!](obsidian://open?vault=content&file=notes%2FWelcome!)
+[Welcome!](https://github.com/heedongcho-xyz/quartz/blob/hugo/content/notes/Welcome!.md)
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
